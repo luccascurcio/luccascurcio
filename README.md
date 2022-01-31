@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Ongoing Projects Stats:
+
+- Private Projects (group collaboration):
+
+Rugged Books Management System 1.0 (RBMS)
+  > Database: PostgreSQL and MongoDB
+  > Back-end: Node.js
+  > Front-end: React and React Native
+
+
+- Public Repositories:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccascurcio)](https://github.com/luccascurcio/github-readme-stats)
 
 <!--
