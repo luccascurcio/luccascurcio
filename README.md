@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccascurcio)](https://github.com/luccascurcio/github-readme-stats)
+
 <!--
 **luccascurcio/luccascurcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
